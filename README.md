@@ -1,6 +1,6 @@
-## Your Name
+## Andy Bird
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I'm a logical, driven problem solver. I have a background in accounting,tiling and fictional writing. The inovation, creativity and freedom to explore are what excite me about tech.
 
 ## Projects
 
@@ -11,15 +11,25 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Pro Tiler Group** (16/10/18 - 19/04/21)  
+_Warehouse Operative_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Small company growing quickly - worked alot with the inhouse programmer to help build a warehouse picking system.
+- Learned alot about being on the otherside of the team and how important it is to communicate on a project.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**NAB Tiling Services** (24/10/17 - 16/10/18)  
+_Apprentice Tiler_
 
-- Any experience relevent to software development
+- Learned how to work on my own steam and the rewards of hard physical work.
+
+**Travis Perkins PLC** (16/10/12 - 19/04/17)  
+_Finance Business Partner_
+
+- Learned how to communnicate with people of all levels whether it be senior members of staff or new recruits
+- Learned how to work within a small team and drive sucessful results.
+
+_Purchase Ledger Finance Team_
+- First encountered VBA and started working with excel to design macros to save myself and others time.
 
 ## Skills
 
@@ -53,7 +63,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (20/09/21 to 21/01/22
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -62,16 +72,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Gloucestershire (01/09/06 to 30/06/10)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Accounting and Finance
+- 2:1
+- Included a years work experience which I did as a finance assistant with Endsleigh insurance.
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+GCSE's, A-levels and a GNVQ in IT.
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+I love watching the NFL (American football) and I'm a big fan of the Tennessee Titans.
+I've been to wembley to watch over 10 of the London games and have been to New York to watch a game too.
+I also love building lego and have built some of the most challenging sets over the years. I also enjoy playing trading card games
+and go to regular events. Enjoy walks in nature and spending time with friends and family. 
