@@ -37,6 +37,14 @@ _Purchase Ledger Finance Team_
 - 2:1
 - Included a years work experience which I did as a finance assistant with Endsleigh insurance.
 
+
+#### Skills
+
+- Compiling accurate accounting data and business inforamtion for managers and directors.
+- High levels of attention to detail requiered so that all stakeholders have confidence in the data to make decesions.
+- I would often set up 'test' formulae's in spreadsheets to check back to the original data and make sure everyhting was included.
+- Highly effective information that could be produced quickly and accuartly.
+
 #### Any other qualifications
 
 GCSE's, A-levels and a GNVQ in IT.
