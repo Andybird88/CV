@@ -6,7 +6,7 @@ I'm a logical, driven problem solver. I have a background in accounting, tiling 
 
 | Name | Description | Tech/tools |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project** | A web app to do x. | React, Jest, etc. |
+| **Final project** | A web app to do help friends meet up. | React, Jest, Express, EmailJS. |
 | **Something else worked on** | A web app to do y. | Ruby |
 
 ## Work Experience
