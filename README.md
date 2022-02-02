@@ -40,7 +40,7 @@ _Purchase Ledger Finance Team_
 
 #### Skills
 
-- Compiling accurate accounting data and business inforamtion for managers and directors.
+- Compiling accurate accounting data and business information for managers and directors.
 - High levels of attention to detail requiered so that all stakeholders have confidence in the data to make decesions.
 - I would often set up 'test' formulae's in spreadsheets to check back to the original data and make sure everyhting was included.
 - Highly effective information that could be produced quickly and accuartly.
