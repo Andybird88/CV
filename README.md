@@ -40,24 +40,22 @@ _Purchase Ledger Finance Team_
 - Included a years work experience which I did as a finance assistant with Endsleigh insurance.
 
 
-#### Skills
-
-### Accuracy and Eye for Detail
+#### Skills - Accuracy and Eye for Detail
 - Compiling accurate accounting data and business information for managers and directors.
 - High levels of attention to detail requiered so that all stakeholders have confidence in the data to make decesions.
 - I would often set up 'test' formulae's in spreadsheets to check back to the original data
 - Highly effective information that could be produced quickly and accuartly.
 - Warehouse work was accuracy focused and was monitored. I had the least errors with the highest picking rate and prided myself on this skill.
-### Team Working
+#### Skills - Team Working
 - Completed the 3 peaks challenge in under 24 hours
 - Learned key skills such as the rewards for perseverance and the satisfaction that can be gained from achieving something that takes a lot of work.
 - Worked as a team to get everyone through the challenge which included people of all age groups and fitness levels.
-### Mentoring/pairing
+#### Skills - Mentoring/pairing
 - Became a mentor whilst at makers and paired with people daily.
 - Love the mentor/mentee dynamic and appreciate how much value there is for both sides.
 - Coached 3 mentee's whilst at makers and built some great relationships/friendships.
 - Get great satisfaction out of both teaching and learning.
-### Empathy
+#### Skills - Empathy
 - I've been told I have high levels of empathy and feel like this helps me understand and get on with all different types of people.
 - I find it really interesting to hear about peoples different backgrounds and cultures. I love finding out more about people and enlightening myself.
 - This skill also helps me to look at problems from different angles and consider a more well rounded approach.
