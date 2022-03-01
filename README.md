@@ -27,6 +27,8 @@ _Finance Business Partner_
 
 - Learned how to communicate with people of all levels whether it be senior members of staff or new recruits
 - Learned how to work within a small team and drive successful results.
+- Promoted to a newly created team to business partner the head office functions. Looking at budgets and working with the directors of the various departments.
+- Worked with an external company to help bring in a new system and was involved in the planning team to set up the accounting system.
 
 _Purchase Ledger Finance Team_
 - First encountered VBA and started working with excel to design macros to save myself and others time.
@@ -39,11 +41,28 @@ _Purchase Ledger Finance Team_
 
 
 #### Skills
-
+     ### Accuracy and Eye for Details
 - Compiling accurate accounting data and business information for managers and directors.
 - High levels of attention to detail requiered so that all stakeholders have confidence in the data to make decesions.
-- I would often set up 'test' formulae's in spreadsheets to check back to the original data and make sure everyhting was included.
+- I would often set up 'test' formulae's in spreadsheets to check back to the original data
 - Highly effective information that could be produced quickly and accuartly.
+- Warehouse work was accuracy focused and was monitored. I had the least errors with the highest picking rate and prided myself on this skill.
+     ### Team Working
+- Completed the 3 peaks challenge in under 24 hours
+- Learned key skills such as the rewards for perseverance and the satisfaction that can be gained from achieving something that takes a lot of work.
+- Worked as a team to get everyone through the challenge which included people of all age groups and fitness levels.
+    ### Mentoring/pairing
+- Became a mentor whilst at makers and paired with people daily.
+- Love the mentor/mentee dynamic and appreciate how much value there is for both sides.
+- Coached 3 mentee's whilst at makers and built some great relationships/friendships.
+- Get great satisfaction out of both teaching and learning.
+    ### Empathy
+- I've been told I have high levels of empathy and feel like this helps me understand and get on with all different types of people.
+- I find it really interesting to hear about peoples different backgrounds and cultures. I love finding out more about people and enlightening myself.
+- This skill also helps me to look at problems from different angles and consider a more well rounded approach.
+
+
+
 
 #### Any other qualifications
 
