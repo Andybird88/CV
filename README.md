@@ -41,7 +41,8 @@ _Purchase Ledger Finance Team_
 
 
 #### Skills
-     ### Accuracy and Eye for Details
+- 
+     ### Accuracy and Eye for Detail
 - Compiling accurate accounting data and business information for managers and directors.
 - High levels of attention to detail requiered so that all stakeholders have confidence in the data to make decesions.
 - I would often set up 'test' formulae's in spreadsheets to check back to the original data
