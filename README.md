@@ -53,7 +53,7 @@ _Purchase Ledger Finance Team_
 #### Skills - Mentoring/pairing
 - Became a mentor whilst at makers and paired with people daily.
 - Love the mentor/mentee dynamic and appreciate how much value there is for both sides.
-- Coached 3 mentee's whilst at makers and built some great relationships/friendships.
+- Coached three mentee's whilst at makers and built some great relationships/friendships.
 - Get great satisfaction out of both teaching and learning.
 #### Skills - Empathy
 - I've been told I have high levels of empathy and feel like this helps me understand and get on with all different types of people.
