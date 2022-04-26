@@ -4,7 +4,7 @@
 
 I'm a logical, driven problem solver who has a background in accounting, tiling and fictional writing. I am keen to work in a team that has a positive supportive culture where TDD principles are followed and the growth mind set is held in high regard.
 
-I first encountered coding whilst working as an accountant via a popular spreadhseet app. It was here that I started making mini programs for the team to help manage workflow. I also automated some tasks that were being done manually. I enjoyed doing this so much that I would spend time in the evenings outside of noraml working hours developing as I was driven by the fact I was making a real impact and improving peoples lives at work.
+I first encountered coding whilst working as an accountant via a popular spreadhseet app. It was here that I started making mini programs for the team to help manage workflow. I also automated some tasks that were being done manually. I enjoyed doing this so much that I would spend time in the evenings outside of normal working hours developing as I was driven by the fact I was making a real impact and improving peoples lives at work.
 
 It was difficult for me to leave my stable career as an accountatnt that I had worked so hard for. I am proud of myself for having the courage to admit I didn't enjoy what I did and also the courage to find what I did enjoy and go after it.
 
