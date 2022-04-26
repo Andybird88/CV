@@ -19,7 +19,7 @@ It was this revelation that set the spark for my prgramming career and opening u
 | **Final Project - HeyDay** | A web app to help friends meet up. | React, Jest, Express, EmailJS. |
 | **Acebook** | Our teams re-creation of a popular social media app. | Ruby, Ruby on Rails |
 |  **Bookmark Manager**  | A web app to manage and catagroise bookmarks | Ruby |
-|  **Battle Game** | A turn based battle game with monsters, players can be damaged,posiened, put to sleep or paralized.|
+|  **Battle Game** | A turn based battle game with monsters, players can be damaged,posiened, put to sleep or paralized.| Ruby |
 
 ## Work Experience
 
