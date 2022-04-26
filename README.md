@@ -44,14 +44,14 @@ _Apprentice Tiler_
 - Time management skills and working to the exact specification of the customer.
 
 **Travis Perkins PLC** (16/10/12 - 19/04/17) 
-_Finance Business Partner_
+_Finance Business Partner_ (18/04/14 - 19/04/17)
 
 - Learned how to communicate with people of all levels whether it be senior members of staff or new recruits
 - Learned how to work within a small team and drive successful results.
 - Promoted to a newly created team to business partner the head office functions. Looking at budgets and working with the directors of the various departments.
 - Worked with an external company to help bring in a new system and was involved in the planning team to set up the accounting system.
 
-_Purchase Ledger Finance Team_
+_Purchase Ledger Finance Team_ (16/10/12 - 18/04/14)
 - First encountered VBA and started working with excel to design macros to save myself and others time.
 - Promoted to a newly created team to business partner the head office functions. This was based off an excel app I built to help manage the teams workflow. This was used by all teams in the department. I received feedback from multiple sources that it saved hours of time and people thought it was a revelation. After I was promoted I handed over the maintenance to another who commented how simple it was to maintain because of the logical way it had been built.
 
