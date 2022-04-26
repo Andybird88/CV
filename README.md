@@ -1,15 +1,34 @@
 ## Andy Bird
 
-I'm a logical, driven problem solver. I have a background in accounting, tiling and fictional writing. The innovation, creativity and freedom to explore are what excite me about tech.
+## About Me
+
+I'm a logical, driven problem solver who has a background in accounting, tiling and fictional writing. I am keen to work in a team that has a positive supportive culture where TDD principles are followed and the growth mind set is held in high regard.
+
+I first encountered coding whilst working as an accountant via a popular spreadhseet app. It was here that I started making mini programs for the team to help manage workflow. I also automated some tasks that were being done manually. I enjoyed doing this so much that I would spend time in the evenings outside of noraml working hours developing as I was driven by the fact I was making a real impact and improving peoples lives at work.
+
+It was difficult for me to leave my stable career as an accountatnt that I had worked so hard for. I am proud of myself for having the courage to admit I didn't enjoy what I did and also the courage to find what I did enjoy and go after it.
+
+I decided to try something completley different and went into tiling and through that ended up getting a job at a small but fastly growing online tiling supplies business. I admired the way they worked and the drive to become the most efficent small business relying less on large numbers of staff but more on technology and systems. This is where I was able to get further insight into programing and after chatting with the in-house programmer he was able to show me that what I had done in the spreadsheet app wasn't actually that far from what he was doing on a day to day basis.
+
+It was this revelation that set the spark for my prgramming career and opening up a whole new world of possibilites. I started doing online courses and that lead me to consider doing a bootcamp. After doing some research I had my heart set on doing makers a highly selective but industry leading bootcamp. I was so excited when I got accpeted onto the course and this was the first step for me in realising anything is possible if you put your mind to it.
 
 ## Projects
 
 | Name | Description | Tech/tools |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project** | A web app to do help friends meet up. | React, Jest, Express, EmailJS. |
-| **Something else worked on** | A web app to do y. | Ruby |
+| **Final Project - HeyDay** | A web app to help friends meet up. | React, Jest, Express, EmailJS. |
+| **Acebook** | Our teams re-creation of a popular social media app. | Ruby, Ruby on Rails |
+|  **Bookmark Manager**  | A web app to manage and catagroise bookmarks | Ruby |
+|  **Battle Game** | A turn based battle game with monsters, players can be damaged,posiened, put to sleep or paralized.|
 
 ## Work Experience
+
+**Makers Academy** (18/10/21 - 21/01/22)
+_Student_
+
+- Some of the important skills I learned at makers include:
+- Communication - Makers has daily pair programming through out the course and this helped me develop my communication even further. It was hard at first as Im used to learning on my own however I was surprised at how quickly I got used to it and found myself excited to see who I was going to work with next. 
+- Mentoring - I decided to take on 3 mentee's whilst at makers as I thought I'd throw myself into something out of my comfort zone. I assumed it would be one way but as our relationships developed we ended up learning from each other and had some great chats.
 
 **Pro Tiler Group** (16/10/18 - 19/04/21) 
 _Warehouse Operative_
@@ -21,6 +40,8 @@ _Warehouse Operative_
 _Apprentice Tiler_
 
 - Learned how to work on my own steam and the rewards of hard physical work.
+- Had to develop good planning skills and the ability to visualise the end product.
+- Time management skills and working to the exact specification of the customer.
 
 **Travis Perkins PLC** (16/10/12 - 19/04/17) 
 _Finance Business Partner_
@@ -32,6 +53,7 @@ _Finance Business Partner_
 
 _Purchase Ledger Finance Team_
 - First encountered VBA and started working with excel to design macros to save myself and others time.
+- Promoted to a newly created team to business partner the head office functions. This was based off an excel app I built to help manage the teams workflow. This was used by all teams in the department. I received feedback from multiple sources that it saved hours of time and people thought it was a revelation. After I was promoted I handed over the maintenance to another who commented how simple it was to maintain because of the logical way it had been built.
 
 #### University of Gloucestershire (01/09/06 to 30/06/10)
 
@@ -53,15 +75,12 @@ _Purchase Ledger Finance Team_
 #### Skills - Mentoring/pairing
 - Became a mentor whilst at makers and paired with people daily.
 - Love the mentor/mentee dynamic and appreciate how much value there is for both sides.
-- Coached three mentee's whilst at makers and built some great relationships/friendships.
+- Coached 3 mentee's whilst at makers and built some great relationships/friendships.
 - Get great satisfaction out of both teaching and learning.
-#### Skills - Empathy
+#### Skills - Empathy and understanding 
 - I've been told I have high levels of empathy and feel like this helps me understand and get on with all different types of people.
 - I find it really interesting to hear about peoples different backgrounds and cultures. I love finding out more about people and enlightening myself.
 - This skill also helps me to look at problems from different angles and consider a more well rounded approach.
-
-
-
 
 #### Any other qualifications
 
@@ -71,5 +90,5 @@ GCSE's, A-levels and a GNVQ in IT.
 
 I love watching the NFL (American football) and I'm a big fan of the Tennessee Titans.
 I've been to wembley to watch over 10 of the London games and have been to New York to watch a game too.
-I also love building lego and have built some of the most challenging sets over the years. I also enjoy playing trading card games
-and go to regular events. Enjoy walks in nature and spending time with friends and family. 
+I also love building lego and have built some of the most challenging sets over the years. I also enjoy playing the pokemon trading card game
+and go to regular events. I recently went to a regional event in Liverpool and finished in the top 64 which included players from all over europe. I Enjoy walks in nature and spending time with friends and family. 
