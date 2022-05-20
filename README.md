@@ -10,7 +10,7 @@ It was difficult for me to leave my stable career as an accountatnt that I had w
 
 I decided to try something completley different and went into tiling and through that ended up getting a job at a small but fastly growing online tiling supplies business. I admired the way they worked and the drive to become the most efficent small business relying less on large numbers of staff but more on technology and systems. This is where I was able to get further insight into programing and after chatting with the in-house programmer he was able to show me that what I had done in the spreadsheet app wasn't actually that far from what he was doing on a day to day basis.
 
-It was this revelation that set the spark for my prgramming career and opening up a whole new world of possibilites. I started doing online courses and that lead me to consider doing a bootcamp. After doing some research I had my heart set on doing makers a highly selective but industry leading bootcamp. I was so excited when I got accpeted onto the course and this was the first step for me in realising anything is possible if you put your mind to it.
+It was this revelation that set the spark for my prgramming career and opening up a whole new world of possibilites. I started doing online courses and that lead me to consider doing a bootcamp. After doing some research I had my heart set on doing makers. I was so excited when I got accpeted onto the course and this was the first step for me in realising anything is possible if you put your mind to it.
 
 ## Projects
 
@@ -72,6 +72,7 @@ _Purchase Ledger Finance Team_ (16/10/12 - 18/04/14)
 - Completed the 3 peaks challenge in under 24 hours
 - Learned key skills such as the rewards for perseverance and the satisfaction that can be gained from achieving something that takes a lot of work.
 - Worked as a team to get everyone through the challenge which included people of all age groups and fitness levels.
+- 
 #### Skills - Mentoring/pairing
 - Became a mentor whilst at makers and paired with people daily.
 - Love the mentor/mentee dynamic and appreciate how much value there is for both sides.
@@ -81,6 +82,10 @@ _Purchase Ledger Finance Team_ (16/10/12 - 18/04/14)
 - I've been told I have high levels of empathy and feel like this helps me understand and get on with all different types of people.
 - I find it really interesting to hear about peoples different backgrounds and cultures. I love finding out more about people and enlightening myself.
 - This skill also helps me to look at problems from different angles and consider a more well rounded approach.
+- For example whilst at Pro Tiler I would get given the important orders to send out as I would always make sure they were packed with care. Due to the tight schedules of the building industry I understood the importance of getting the materials to the customers on time and un-damaged. This lead to some great relationships with customers and this shows my ability to empathise with the end user.
+#### Skills - Problem Solving
+- Whilst at Travis Perkins I was often asked to produce data sets to assist with management decesions. These would often be with little explanation and I had to use my own initiative to work out the best way of doing it.
+- Due to my sucess I was asked to help the commercial team out in China. The project was to track the benefit of sourcing products from China and the savings/profit that they generated. This involved speaking to a range of departments both uk and abroad. Often the data was incomplete or not uploaded in time. I took charge and became the go to person for tracking the financials. I added in some spreadhseets
 
 #### Any other qualifications
 
