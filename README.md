@@ -85,7 +85,7 @@ _Purchase Ledger Finance Team_ (16/10/12 - 18/04/14)
 - For example whilst at Pro Tiler I would get given the important orders to send out as I would always make sure they were packed with care. Due to the tight schedules of the building industry I understood the importance of getting the materials to the customers on time and un-damaged. This lead to some great relationships with customers and this shows my ability to empathise with the end user.
 #### Skills - Problem Solving
 - Whilst at Travis Perkins I was often asked to produce data sets to assist with management decesions. These would often be with little explanation and I had to use my own initiative to work out the best way of doing it.
-- Due to my sucess I was asked to help the commercial team out in China. The project was to track the benefit of sourcing products from China and the savings/profit that they generated. This involved speaking to a range of departments both uk and abroad. Often the data was incomplete or not uploaded in time. I took charge and became the go to person for tracking the financials. I added in some spreadhseets
+- Due to my success I was asked to help the commercial team out in China. The project was to track the benefit of sourcing products from China and the savings/profit that they generated. This involved speaking to a range of departments both uk and abroad. Often the data was incomplete or not uploaded in time. I took charge and became the go to person for tracking the financials. 
 
 #### Any other qualifications
 
