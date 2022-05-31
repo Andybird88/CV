@@ -2,21 +2,15 @@
 
 ## About Me
 
-I'm a logical, driven problem solver who has a background in accounting, tiling and fictional writing. I am keen to work in a team that has a positive supportive culture where TDD principles are followed and the growth mind set is held in high regard.
-
-I first encountered coding whilst working as an accountant via a popular spreadhseet app. It was here that I started making mini programs for the team to help manage workflow. I also automated some tasks that were being done manually. I enjoyed doing this so much that I would spend time in the evenings outside of normal working hours developing as I was driven by the fact I was making a real impact and improving peoples lives at work.
-
-It was difficult for me to leave my stable career as an accountatnt that I had worked so hard for. I am proud of myself for having the courage to admit I didn't enjoy what I did and also the courage to find what I did enjoy and go after it.
-
-I decided to try something completley different and went into tiling and through that ended up getting a job at a small but fastly growing online tiling supplies business. I admired the way they worked and the drive to become the most efficent small business relying less on large numbers of staff but more on technology and systems. This is where I was able to get further insight into programing and after chatting with the in-house programmer he was able to show me that what I had done in the spreadsheet app wasn't actually that far from what he was doing on a day to day basis.
-
-It was this revelation that set the spark for my prgramming career and opening up a whole new world of possibilites. I started doing online courses and that lead me to consider doing a bootcamp. After doing some research I had my heart set on doing makers. I was so excited when I got accpeted onto the course and this was the first step for me in realising anything is possible if you put your mind to it.
+I'm a logical, driven problem-solver who has a background in accounting, tiling and fictional writing. I first encountered coding whilst working as an accountant via a popular spreadhseet app. It was here that I started making mini programs for the team to help manage workflow. I also automated some tasks that were being done manually often working into the evening, driven by the impact I was making. 
+I left accounting to try something completely different and trained as a tiler. The small but efficient business relied on technology and systems and employed an in-house programmer. In chatting with him I realised that what I had done in the spreadsheet app wasn't actually that far from what he was doing on a daily basis.
+I am keen to work in a team that has a positive, supportive culture that values testing and growth mindset.
 
 ## Projects
 
 | Name | Description | Tech/tools |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final Project - HeyDay** | A web app to help friends meet up. | React, Jest, Express, EmailJS. |
+| **Final Project - [HeyDay](https://github.com/Andybird88/heyday)** | A web app to help friends meet up. | React, Jest, Express, EmailJS. |
 | **Acebook** | Our teams re-creation of a popular social media app. | Ruby, Ruby on Rails |
 |  **Bookmark Manager**  | A web app to manage and catagroise bookmarks | Ruby |
 |  **Battle Game** | A turn based battle game with monsters, players can be damaged,posiened, put to sleep or paralized.| Ruby |
