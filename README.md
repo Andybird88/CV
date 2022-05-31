@@ -11,9 +11,9 @@ I am keen to work in a team that has a positive, supportive culture that values 
 | Name | Description | Tech/tools |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final Project - [HeyDay](https://github.com/Andybird88/heyday)** | A web app to help friends meet up. | React, Jest, Express, EmailJS. |
-| **Acebook** | Our teams re-creation of a popular social media app. | Ruby, Ruby on Rails |
-|  **Bookmark Manager**  | A web app to manage and catagroise bookmarks | Ruby |
-|  **Battle Game** | A turn based battle game with monsters, players can be damaged,posiened, put to sleep or paralized.| Ruby |
+| **[Acebook](https://github.com/Andybird88/acebook-blue-magpies)** | Our teams re-creation of a popular social media app. | Ruby, Ruby on Rails |
+|  **[Bookmark Manager](https://github.com/Andybird88/BookmarkManagerApp)**  | A web app to manage and catagroise bookmarks | Ruby |
+|  **[Battle Game](https://github.com/Andybird88/Battle-Game)** | A turn based battle game with monsters, players can be damaged,posiened, put to sleep or paralized.| Ruby |
 
 ## Work Experience
 
