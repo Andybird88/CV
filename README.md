@@ -66,7 +66,7 @@ _Purchase Ledger Finance Team_ (16/10/12 - 18/04/14)
 - Completed the 3 peaks challenge in under 24 hours
 - Learned key skills such as the rewards for perseverance and the satisfaction that can be gained from achieving something that takes a lot of work.
 - Worked as a team to get everyone through the challenge which included people of all age groups and fitness levels.
-- 
+
 #### Skills - Mentoring/pairing
 - Became a mentor whilst at makers and paired with people daily.
 - Love the mentor/mentee dynamic and appreciate how much value there is for both sides.
